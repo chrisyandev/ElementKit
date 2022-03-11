@@ -1,3 +1,3 @@
 # ElementKit
 
-A description of this package.
+Swift package for COMP 3912
