@@ -1,6 +1,6 @@
 import UIKit
 
-open class BaseUILabel: UILabel {
+open class BaseUIView: UIView {
 	
 	public convenience init() {
 		self.init(frame: .zero)
@@ -21,7 +21,7 @@ open class BaseUILabel: UILabel {
 		setupView()
 	}
 	
-	open func setupView(){
+	open func setupView() {
 		translatesAutoresizingMaskIntoConstraints = false
 	}
 	
