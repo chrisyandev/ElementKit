@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  
-//
-//  Created by Mostafa Davoodi on 11/11/21.
-//
-
 import UIKit
 
 open class BaseUIImageView: UIImageView {
